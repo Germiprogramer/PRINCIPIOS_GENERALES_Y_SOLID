@@ -1,4 +1,4 @@
-from Usuario import Usuario
+from ejercicio2_bien.Cliente import Usuario
 import csv 
 
 class Authenticator:

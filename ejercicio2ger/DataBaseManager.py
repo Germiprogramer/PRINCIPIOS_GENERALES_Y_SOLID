@@ -1,5 +1,5 @@
 from Authenticator import Authenticator
-from Usuario import Usuario
+from ejercicio2_bien.Cliente import Usuario
 import csv
 import config
 

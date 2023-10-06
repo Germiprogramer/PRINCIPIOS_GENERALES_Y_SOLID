@@ -1,3 +1,4 @@
+nombre;apellido;direccion;telefono;email;contraseña;n_pedidos;dinero
 Juan;Perez;Calle 123, Ciudad A;123-456-789;juan.perez@email.com;clave123;5;500
 Maria;Gomez;Avenida 456, Ciudad B;234-567-890;maria.gomez@email.com;password123;8;800
 Carlos;Lopez;Calle 789, Ciudad C;345-678-901;carlos.lopez@email.com;securepass;12;1200

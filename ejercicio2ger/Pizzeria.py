@@ -1,6 +1,6 @@
 from rx.subject import Subject
 import random
-from Pedido import Pedido
+from ejercicio2_bien.Pedido import Pedido
 
 # Clase Pizzeria como observado
 class Pizzeria:
@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
     # Crear la pizzería como observado
     pizzeria = Pizzeria()
-    
+
     # Generar y procesar los pedidos
     num_pedidos = 5
     for _ in range(num_pedidos):
