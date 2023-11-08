@@ -1,11 +1,12 @@
 class Cliente:
-    def __init__(self, nombre, apellido, direccion, telefono, email, contraseña, n_pedidos, dinero):
+    def __init__(self, usuario, nombre, apellido, direccion, telefono, email, contrasenia, n_pedidos, dinero):
+        self.usuario = usuario
         self.nombre = nombre
         self.apellido = apellido
         self.direccion = direccion
         self.telefono = telefono
         self.email = email
-        self.contraseña = contraseña
+        self.contrasenia = contrasenia
         self.n_pedidos = n_pedidos
         self.dinero = dinero
        
